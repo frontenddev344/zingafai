@@ -499,5 +499,14 @@ a:focus {
 
 /* accordian styling end */
 /* below banner styling start */
-
+.below_banner {
+    padding: 80px 0px;
+}
+.below_text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    flex-direction: column;
+}
 /* below banner styling end */
