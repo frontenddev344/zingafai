@@ -58,3 +58,8 @@
     }
 
 }
+@media screen and (max-width:575px) {
+    .monte_detail {
+        padding: 20px 0;
+    }
+}
