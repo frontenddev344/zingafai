@@ -261,6 +261,9 @@ nav {
 .monte_detail {
     padding: 80px 0;
 }
+.detail-inner p {
+    text-align: center;
+}
 
 /* monte detail styling end */
 /* footer styling */
