@@ -261,8 +261,15 @@ nav {
 .monte_detail {
     padding: 80px 0;
 }
+
 .detail-inner p {
     text-align: center;
+}
+
+.detail-inner img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
 }
 
 /* monte detail styling end */
