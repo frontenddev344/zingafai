@@ -57,7 +57,7 @@ h2 {
     text-align: center;
     color: var(--primary-color);
     margin-top: 10px;
-    font-size: 28px;
+    font-size: 35px;
     text-transform: capitalize;
 }
 
@@ -266,13 +266,18 @@ nav {
 .detail-inner p {
     text-align: center;
 }
+.detail-inner h3 {
+    margin-top: 10px;
+}
 
 .detail-inner img {
     width: 100%;
     height: 200px;
     object-fit: cover;
 }
-
+.detail-inner {
+    text-align: center;
+}
 /* monte detail styling end */
 /* footer styling */
 
