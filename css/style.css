@@ -501,6 +501,7 @@ a:focus {
 /* below banner styling start */
 .below_banner {
     padding: 80px 0px;
+    background-color: var(--secondary-color);
 }
 .below_text {
     display: flex;
