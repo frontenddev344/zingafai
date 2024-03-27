@@ -688,7 +688,7 @@ input.form-control.sub_btn:hover {
     height: 100%;
 }
 
-.page_section {
+.pages_section {
     padding: 80px 0;
 }
 
@@ -727,10 +727,10 @@ input.form-control.sub_btn:hover {
 .page_casino h3 {
     margin-top: 10px;
 }
-.page_section h2 {
+.pages_section h2 {
     text-align: center;
     color: var(--primary-color);
-    margin-top: 10px;
+    margin-bottom: 30px;
     font-size: 35px;
     text-transform: capitalize;
 }
