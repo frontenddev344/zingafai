@@ -326,7 +326,25 @@ a:focus {
     background-color: #0F1113;
     padding: 40px 0;
 }
+a.contact_btn {
+    text-decoration: none;
+    padding: 12px 60PX;
+    color: var(--primary-color) !important;
+    background: #fff;
+    border: 1px solid #fff;
+    transition: all 0.5s;
+    border-radius: 5px;
+    font-size: 18px;
+}
 
+a.contact_btn:hover {
+    border: 1px solid var(--primary-color);
+    color: var(--primary-color);
+    background: #fff;
+}
+.email {
+    margin: 20px 0;
+}
 /*END FOOTER SOCIAL DESIGN*/
 .single_footer h4 img {
     max-width: 150px;
