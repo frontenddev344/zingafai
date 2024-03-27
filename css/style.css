@@ -342,15 +342,25 @@ a:focus {
     font-size: 20px;
 }
 
-/* 
-.single_footer h4::after {
-    content: "";
-    display: block;
-    height: 2px;
-    width: 40px;
-    background: #fff;
+
+.newsletter {
     margin-top: 20px;
-} */
+}
+
+.newsletter input {
+    padding: 10px;
+    border: none;
+    outline: none;
+    width: 250px;
+}
+
+.newsletter button {
+    background-color: #008CBA; /* Example color */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
 
 .single_footer p {
     color: #eddd91;
