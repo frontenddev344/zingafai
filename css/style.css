@@ -60,7 +60,10 @@ h2 {
     font-size: 35px;
     text-transform: capitalize;
 }
-
+.active {
+    color: var(--secondary-color) !important;
+    border-bottom: 1px solid;
+}
 /* navbar styling  */
 
 .logo img {
