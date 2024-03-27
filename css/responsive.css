@@ -103,4 +103,8 @@
         font-size: 18px;
         padding: 20px 17px;
     }
+    .single_footer h4 {
+        margin-top: 20px;
+        margin-bottom: 5px;
+    }
 }
