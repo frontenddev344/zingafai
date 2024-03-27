@@ -619,7 +619,7 @@ input.form-control.sub_btn:hover {
 /* night_banner styling start */
 .night_banner {
     height: 600px;
-    background-image: url(../img/bannernight.webp);
+    background-image: url(../img/nightbanner.webp);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
