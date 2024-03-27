@@ -546,7 +546,6 @@ a.contact_btn:hover {
 
 .below_text {
     display: flex;
-    align-items: center;
     justify-content: center;
     height: 100%;
     flex-direction: column;
