@@ -674,3 +674,63 @@ input.form-control.sub_btn:hover {
     z-index: 0;
 }
 /* casino game section styling end */
+
+.page_inner p {
+    font-size: 18px;
+    text-align: center;
+}
+
+.page_inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100%;
+}
+
+.game_section2 {
+    padding: 80px 20px;
+    background: var(--primary-color);
+}
+
+.page_section {
+    padding: 80px 0;
+}
+
+.page_casino h3 {
+    font-size: 21px;
+}
+
+.pageinner {
+    text-align: center;
+    border: 1px solid var(--secondary-color);
+    background: var(--secondary-color);
+    height: 100%;
+    padding: 10px;
+}
+
+.page_casino {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.page_casino.space {
+    padding-top: 16px;
+}
+
+.page_casino img {
+    height: 300px;
+    object-fit: cover;
+}
+
+.page_casino p {
+    text-align: center;
+    padding: 10px 0;
+}
+
+.page_casino h3 {
+    margin-top: 10px;
+}
