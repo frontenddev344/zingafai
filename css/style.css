@@ -707,6 +707,7 @@ input.form-control.sub_btn:hover {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    padding-bottom: 15px;
 }
 
 .page_casino p {
