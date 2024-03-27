@@ -700,11 +700,11 @@ input.form-control.sub_btn:hover {
     text-align: center;
     border: 1px solid var(--secondary-color);
     background: var(--secondary-color);
-    height: 300px;
-    padding: 10px;
+    height: auto;
+    padding: 20px 40px 40px 40px;
 }
 .page_casino img {
-    height: 300px;
+    height: 250px;
     object-fit: cover;
 }
 .page_casino {
@@ -712,11 +712,6 @@ input.form-control.sub_btn:hover {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-}
-
-
-.page_casino.space {
-    padding-top: 16px;
 }
 
 .page_casino p {
