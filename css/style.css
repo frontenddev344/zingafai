@@ -60,10 +60,12 @@ h2 {
     font-size: 35px;
     text-transform: capitalize;
 }
+
 .active {
     color: #fff !important;
     border-bottom: 1px solid #fff;
 }
+
 /* navbar styling  */
 
 .logo img {
@@ -261,6 +263,23 @@ nav {
 
 /* terms styling end */
 /* monte detail styling start */
+.detail-inner img {
+    transition: all .3s linear;
+}
+
+.detail-inner img:hover {
+    transform: scale(1.1);
+}
+
+
+
+.detail-inner article {
+    overflow: hidden;
+    height: 200px;
+    display: block;
+    width: 100%;
+}
+
 .monte_detail {
     padding: 80px 0;
 }
@@ -268,6 +287,7 @@ nav {
 .detail-inner p {
     text-align: center;
 }
+
 .detail-inner h3 {
     margin-top: 10px;
 }
@@ -277,9 +297,11 @@ nav {
     height: 200px;
     object-fit: cover;
 }
+
 .detail-inner {
     text-align: center;
 }
+
 /* monte detail styling end */
 /* footer styling */
 
@@ -505,6 +527,7 @@ a:focus {
     padding: 80px 0px;
     background-color: var(--secondary-color);
 }
+
 .below_text {
     display: flex;
     align-items: center;
@@ -513,52 +536,63 @@ a:focus {
     flex-direction: column;
     margin-bottom: 20px;
 }
+
 /* below banner styling end */
 .section {
     padding: 80px 0;
 }
+
 .casino_hotels_inner {
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
+
 .casino_hotels_inner img {
     transition: all 0.5s;
     padding: 40px;
 }
+
 .cashotel_card_further img {
     height: 440px;
     width: 100%;
     object-fit: cover;
 }
+
 .casino_hotels_inner img:hover {
     filter: brightness(0.5);
 }
+
 .casino_hotels_inner {
     padding: 10px;
 }
+
 a.common_btn {
     text-decoration: none;
     padding: 8px 60PX;
     color: #fff;
-    background:var(--primary-color);
+    background: var(--primary-color);
     border: 1px solid transparent;
     transition: all 0.5s;
     border-radius: 5px;
     font-size: 18px;
 }
+
 a.common_btn:hover {
     border: 1px solid var(--primary-color);
     color: var(--primary-color);
     background: transparent;
 }
+
 /* bottom text section start */
 .bottom_text_section {
     padding: 50px 0;
-	background-color: var(--secondary-color);
+    background-color: var(--secondary-color);
 }
+
 p.dis {
     font-size: 14px;
     margin-top: 20px;
 }
+
 /* bottom section end */
 /* contact box info */
 /* info box styling */
@@ -641,6 +675,7 @@ input.form-control.sub_btn:hover {
     height: 100%;
     z-index: 0;
 }
+
 /* night_banner styling end */
 /* attract_banner styling start */
 .attract_banner {
@@ -660,6 +695,7 @@ input.form-control.sub_btn:hover {
     height: 100%;
     z-index: 0;
 }
+
 /* attract_banner styling end */
 /* casino game section  styling start */
 .casinostay_banner {
@@ -679,6 +715,7 @@ input.form-control.sub_btn:hover {
     height: 100%;
     z-index: 0;
 }
+
 /* casino game section styling end */
 
 .page_inner p {
@@ -693,6 +730,7 @@ input.form-control.sub_btn:hover {
     align-items: center;
     height: 100%;
 }
+
 .page_casino h3 {
     font-size: 21px;
 }
@@ -704,10 +742,12 @@ input.form-control.sub_btn:hover {
     height: auto;
     padding: 20px 40px 40px 40px;
 }
+
 .page_casino img {
     height: 250px;
     object-fit: cover;
 }
+
 .page_casino {
     height: 100%;
     display: flex;
@@ -723,6 +763,7 @@ input.form-control.sub_btn:hover {
 .page_casino h3 {
     margin-top: 10px;
 }
+
 .pages_section h2 {
     text-align: center;
     color: var(--primary-color);
