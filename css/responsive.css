@@ -61,8 +61,11 @@
 @media screen and (max-width:767px) {
     .banner_box h1 {
         font-size: 35px;
-        text-transform: uppercase;
-        padding: 30px 60px;
+       
+    }
+    h2 {
+        font-size: 30px;
+        text-transform: capitalize;
     }
     .monte_detail {
         padding: 40px 0;
@@ -73,6 +76,7 @@
     .copyright {
         margin-top: 40px;
     }
+
 }
 
 
@@ -80,9 +84,7 @@
     .monte_detail {
         padding: 20px 0;
     }
-    .banner_box h1 {
-        font-size: 28px;
-        text-transform: uppercase;
-        padding: 30px 60px;
+    .home_banner {
+        height: 400px;
     }
 }
