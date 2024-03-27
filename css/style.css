@@ -552,7 +552,10 @@ a.common_btn:hover {
     padding: 50px 0;
 	background-color: var(--secondary-color);
 }
-
+p.dis {
+    font-size: 14px;
+    margin-top: 20px;
+}
 /* bottom section end */
 /* contact box info */
 /* info box styling */
