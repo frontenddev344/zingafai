@@ -712,7 +712,6 @@ input.form-control.sub_btn:hover {
     height: 100%;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
     padding-bottom: 15px;
 }
 
