@@ -345,6 +345,12 @@ a.contact_btn:hover {
 .email {
     margin: 20px 0;
 }
+.single_footer.single_footer_address.below_address ul {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
 /*END FOOTER SOCIAL DESIGN*/
 .single_footer h4 img {
     max-width: 150px;
@@ -448,14 +454,15 @@ a.contact_btn:hover {
 
 /*END SOCIAL PROFILE CSS*/
 .copyright {
-    margin-top: 70px;
-    padding-top: 40px;
     color: #fff;
     font-size: 15px;
-    border-top: 1px solid rgba(255, 255, 255, 0.4);
-    text-align: center;
+    text-align: left;
 }
-
+.row.bottom {
+    padding-top: 20px;
+    justify-content: center !important;
+    align-items: center;
+}
 .copyright a {
     color: #fff;
     transition: all 0.2s ease 0s;
