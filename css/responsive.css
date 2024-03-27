@@ -96,4 +96,11 @@
     .home_banner {
         height: 400px;
     }
+    .casino_gameinner h2 {
+        font-size: 28px;
+    }
+    .panel-default>.panel-heading a {
+        font-size: 18px;
+        padding: 20px 17px;
+    }
 }
