@@ -58,8 +58,22 @@
     }
 
 }
+@media screen and (max-width:767px) {
+    .banner_box h1 {
+        font-size: 35px;
+        text-transform: uppercase;
+        padding: 30px 60px;
+    }
+}
+
+
 @media screen and (max-width:575px) {
     .monte_detail {
         padding: 20px 0;
+    }
+    .banner_box h1 {
+        font-size: 28px;
+        text-transform: uppercase;
+        padding: 30px 60px;
     }
 }

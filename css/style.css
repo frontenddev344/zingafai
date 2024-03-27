@@ -124,7 +124,7 @@ nav {
 
 /* banner styling  start */
 .home_banner {
-    height: 600px;
+    height: 500px;
     background-image: url(../img/bannerhome.webp);
     background-size: cover;
     background-position: center;
@@ -619,7 +619,7 @@ input.form-control.sub_btn:hover {
 /* contact box end */
 /* night_banner styling start */
 .night_banner {
-    height: 600px;
+    height: 400px;
     background-image: url(../img/nightbanner.webp);
     background-size: cover;
     background-position: center;
@@ -638,7 +638,7 @@ input.form-control.sub_btn:hover {
 /* night_banner styling end */
 /* attract_banner styling start */
 .attract_banner {
-    height: 600px;
+    height: 400px;
     background-image: url(../img/attractbanner.jpg);
     background-size: cover;
     background-position: center;
@@ -657,7 +657,7 @@ input.form-control.sub_btn:hover {
 /* attract_banner styling end */
 /* casino game section  styling start */
 .casinostay_banner {
-    height: 600px;
+    height: 400px;
     background-image: url(../img/casinobanner.webp);
     background-size: cover;
     background-position: center;
