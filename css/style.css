@@ -508,6 +508,7 @@ a:focus {
     justify-content: center;
     height: 100%;
     flex-direction: column;
+    margin-bottom: 20px;
 }
 /* below banner styling end */
 .section {
