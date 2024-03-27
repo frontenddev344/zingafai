@@ -557,7 +557,7 @@ a.common_btn:hover {
 /* info box styling */
 .contact_banner {
     height: 400px;
-    background-image: url(../image/cpntactbanner.jpg);
+    background-image: url(../img/contactbanner.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -611,7 +611,7 @@ input.form-control.sub_btn:hover {
     color: var(--primary-color);
 }
 
-.information_box {
+.contact_box {
     padding: 80px 0;
 }
 
