@@ -760,7 +760,15 @@ input.form-control.sub_btn:hover {
     height: auto;
     padding: 20px 40px 40px 40px;
 }
+.page_casino img {
+    transition: all .3s linear;
+}
 
+.page_casino img:hover {
+    
+        filter: brightness(0.5);
+}
+   
 .page_casino img {
     height: 250px;
     object-fit: cover;
