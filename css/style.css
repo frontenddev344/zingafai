@@ -725,3 +725,10 @@ input.form-control.sub_btn:hover {
     text-transform: capitalize;
 }
 
+.casino_gameinner h2 {
+    text-align: center;
+    color: var(--primary-color);
+    margin-bottom: 30px;
+    font-size: 35px;
+    text-transform: capitalize;
+}
