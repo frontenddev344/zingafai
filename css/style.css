@@ -727,3 +727,11 @@ input.form-control.sub_btn:hover {
 .page_casino h3 {
     margin-top: 10px;
 }
+.page_section h2 {
+    text-align: center;
+    color: var(--primary-color);
+    margin-top: 10px;
+    font-size: 35px;
+    text-transform: capitalize;
+}
+
