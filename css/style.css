@@ -688,11 +688,6 @@ input.form-control.sub_btn:hover {
     height: 100%;
 }
 
-.game_section2 {
-    padding: 80px 20px;
-    background: var(--primary-color);
-}
-
 .page_section {
     padding: 80px 0;
 }
@@ -708,7 +703,10 @@ input.form-control.sub_btn:hover {
     height: 100%;
     padding: 10px;
 }
-
+.page_casino img {
+    height: 300px;
+    object-fit: cover;
+}
 .page_casino {
     height: 100%;
     display: flex;
@@ -719,11 +717,6 @@ input.form-control.sub_btn:hover {
 
 .page_casino.space {
     padding-top: 16px;
-}
-
-.page_casino img {
-    height: 300px;
-    object-fit: cover;
 }
 
 .page_casino p {
