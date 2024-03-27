@@ -61,8 +61,8 @@ h2 {
     text-transform: capitalize;
 }
 .active {
-    color: var(--secondary-color) !important;
-    border-bottom: 1px solid;
+    color: #fff !important;
+    border-bottom: 1px solid #fff;
 }
 /* navbar styling  */
 
